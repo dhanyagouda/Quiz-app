@@ -115,7 +115,7 @@ const loadingAnimation = () => {
 function defineProperty() {
   var osccred = document.createElement("div");
   osccred.innerHTML =
-    "A Project By <a href='https://github.com/charitha0303'>Bada Sree Charihta</a>";
+    "A Project By <a href='https://github.com/dhanyagouda'>Dhanya Shridhar Gouda</a>";
   osccred.style.position = "absolute";
   osccred.style.bottom = "0";
   osccred.style.right = "0";
